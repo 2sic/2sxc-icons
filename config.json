@@ -55,9 +55,21 @@
       "src": "fontawesome"
     },
     {
+      "uid": "128d63150a41800e0beff55235269542",
+      "css": "up-circled2",
+      "code": 59402,
+      "src": "fontawesome"
+    },
+    {
       "uid": "dea706a9bd3144316ce37406ec10f469",
       "css": "level-up",
       "code": 59400,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e9fa538fd5913046497ac148e27cd8ea",
+      "css": "apple",
+      "code": 59401,
       "src": "fontawesome"
     }
   ]
