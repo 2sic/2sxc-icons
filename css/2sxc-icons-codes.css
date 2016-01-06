@@ -1,0 +1,10 @@
+
+.icon-folder-empty:before { content: '\e800'; } /* '' */
+.icon-file-word:before { content: '\e801'; } /* '' */
+.icon-file-pdf:before { content: '\e802'; } /* '' */
+.icon-file-excel:before { content: '\e803'; } /* '' */
+.icon-doc:before { content: '\e804'; } /* '' */
+.icon-file-powerpoint:before { content: '\e805'; } /* '' */
+.icon-file-archive:before { content: '\e806'; } /* '' */
+.icon-doc-text:before { content: '\e807'; } /* '' */
+.icon-level-up:before { content: '\e808'; } /* '' */
