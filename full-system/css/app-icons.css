@@ -1,10 +1,10 @@
 @font-face {
-  font-family: '2sxc-icons';
-  src: url('../font/2sxc-icons.eot?40948722');
-  src: url('../font/2sxc-icons.eot?40948722#iefix') format('embedded-opentype'),
-       url('../font/2sxc-icons.woff?40948722') format('woff'),
-       url('../font/2sxc-icons.ttf?40948722') format('truetype'),
-       url('../font/2sxc-icons.svg?40948722#2sxc-icons') format('svg');
+  font-family: 'app-icons';
+  src: url('../font/app-icons.eot?50893100');
+  src: url('../font/app-icons.eot?50893100#iefix') format('embedded-opentype'),
+       url('../font/app-icons.woff?50893100') format('woff'),
+       url('../font/app-icons.ttf?50893100') format('truetype'),
+       url('../font/app-icons.svg?50893100#app-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -13,14 +13,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: '2sxc-icons';
-    src: url('../font/2sxc-icons.svg?40948722#2sxc-icons') format('svg');
+    font-family: 'app-icons';
+    src: url('../font/app-icons.svg?50893100#app-icons') format('svg');
   }
 }
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "2sxc-icons";
+  font-family: "app-icons";
   font-style: normal;
   font-weight: normal;
   speak: none;
@@ -63,7 +63,6 @@
 .icon-file-archive:before { content: '\e806'; } /* '' */
 .icon-file-text:before { content: '\e807'; } /* '' */
 .icon-level-up:before { content: '\e808'; } /* '' */
-.icon-apple:before { content: '\e809'; } /* '' */
 .icon-up-circled2:before { content: '\e80a'; } /* '' */
 .icon-plus:before { content: '\e80b'; } /* '' */
 .icon-plus-circled:before { content: '\e80c'; } /* '' */
@@ -77,3 +76,6 @@
 .icon-star-half-alt:before { content: '\e814'; } /* '' */
 .icon-tag:before { content: '\e815'; } /* '' */
 .icon-user:before { content: '\e816'; } /* '' */
+.icon-plus-squared:before { content: '\e817'; } /* '' */
+.icon-minus-squared:before { content: '\e818'; } /* '' */
+.icon-apple:before { content: '\e819'; } /* '' */
