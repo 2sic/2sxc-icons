@@ -27,3 +27,5 @@
 .icon-apple:before { content: '\e819'; } /* '' */
 .icon-align-center:before { content: '\e81a'; } /* '' */
 .icon-align-right:before { content: '\e81b'; } /* '' */
+.icon-cancel:before { content: '\e81c'; } /* '' */
+.icon-ok:before { content: '\e81d'; } /* '' */

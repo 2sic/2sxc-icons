@@ -3685,6 +3685,18 @@
       "src": "fontawesome"
     },
     {
+      "uid": "12f4ece88e46abd864e40b35e05b11cd",
+      "css": "ok",
+      "code": 59421,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5211af474d3a9848f67f945e2ccaf143",
+      "css": "cancel",
+      "code": 59420,
+      "src": "fontawesome"
+    },
+    {
       "uid": "44e04715aecbca7f266a17d5a7863c68",
       "css": "plus",
       "code": 59403,
