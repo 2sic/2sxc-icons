@@ -3823,6 +3823,12 @@
       "src": "fontawesome"
     },
     {
+      "uid": "3c73d058e4589b65a8d959c0fc8f153d",
+      "css": "resize-horizontal",
+      "code": 59431,
+      "src": "fontawesome"
+    },
+    {
       "uid": "128d63150a41800e0beff55235269542",
       "css": "up-circled2",
       "code": 59402,
@@ -3838,6 +3844,12 @@
       "uid": "6fe95ffc3c807e62647d4f814a96e0d7",
       "css": "sitemap",
       "code": 59430,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "cda0cdcfd38f5f1d9255e722dad42012",
+      "css": "spinner",
+      "code": 59432,
       "src": "fontawesome"
     },
     {
