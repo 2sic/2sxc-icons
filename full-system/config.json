@@ -3685,6 +3685,12 @@
       "src": "fontawesome"
     },
     {
+      "uid": "381da2c2f7fd51f8de877c044d7f439d",
+      "css": "image",
+      "code": 59434,
+      "src": "fontawesome"
+    },
+    {
       "uid": "12f4ece88e46abd864e40b35e05b11cd",
       "css": "ok",
       "code": 59421,
@@ -3778,6 +3784,12 @@
       "uid": "edcd4022de8d8df266ef7c42d2658ca5",
       "css": "file-powerpoint",
       "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3c961c1a8d874815856fc6637dc5a13c",
+      "css": "file-image",
+      "code": 59433,
       "src": "fontawesome"
     },
     {
