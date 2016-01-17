@@ -3893,6 +3893,12 @@
       "css": "options",
       "code": 59424,
       "src": "entypo"
+    },
+    {
+      "uid": "a151e07df1262b33b210de5d956e4cc8",
+      "css": "fields",
+      "code": 59435,
+      "src": "typicons"
     }
   ]
 }
