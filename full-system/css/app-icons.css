@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'app-icons';
-  src: url('../font/app-icons.eot?60815383');
-  src: url('../font/app-icons.eot?60815383#iefix') format('embedded-opentype'),
-       url('../font/app-icons.woff?60815383') format('woff'),
-       url('../font/app-icons.ttf?60815383') format('truetype'),
-       url('../font/app-icons.svg?60815383#app-icons') format('svg');
+  src: url('../font/app-icons.eot?11720481');
+  src: url('../font/app-icons.eot?11720481#iefix') format('embedded-opentype'),
+       url('../font/app-icons.woff?11720481') format('woff'),
+       url('../font/app-icons.ttf?11720481') format('truetype'),
+       url('../font/app-icons.svg?11720481#app-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'app-icons';
-    src: url('../font/app-icons.svg?60815383#app-icons') format('svg');
+    src: url('../font/app-icons.svg?11720481#app-icons') format('svg');
   }
 }
 */
@@ -97,4 +97,25 @@
 .icon-spinner:before { content: '\e828'; } /* '' */
 .icon-file-image:before { content: '\e829'; } /* '' */
 .icon-image:before { content: '\e82a'; } /* '' */
+.icon-fields:before { content: '\e82b'; } /* '' */
 .icon-th-list:before { content: '\e82c'; } /* '' */
+.icon-heart-empty:before { content: '\e82d'; } /* '' */
+.icon-circle-empty:before { content: '\e82e'; } /* '' */
+.icon-circle:before { content: '\e82f'; } /* '' */
+.icon-eye:before { content: '\e830'; } /* '' */
+.icon-dot-circled:before { content: '\e831'; } /* '' */
+.icon-code:before { content: '\e832'; } /* '' */
+.icon-lock:before { content: '\e833'; } /* '' */
+.icon-eye-close:before { content: '\e834'; } /* '' */
+.icon-import:before { content: '\e835'; } /* '' */
+.icon-user:before { content: '\e836'; } /* '' */
+.icon-home:before { content: '\e837'; } /* '' */
+.icon-table:before { content: '\e838'; } /* '' */
+.icon-glasses:before { content: '\e839'; } /* '' */
+.icon-globe:before { content: '\e83a'; } /* '' */
+.icon-language:before { content: '\e83b'; } /* '' */
+.icon-fire:before { content: '\e83c'; } /* '' */
+.icon-circle-half:before { content: '\e83d'; } /* '' */
+.icon-export:before { content: '\e83e'; } /* '' */
+.icon-reload:before { content: '\e83f'; } /* '' */
+.icon-flash:before { content: '\e840'; } /* '' */
