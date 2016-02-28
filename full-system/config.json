@@ -3795,6 +3795,12 @@
       "src": "fontawesome"
     },
     {
+      "uid": "a3f89e106175a5c5c4e9738870b12e55",
+      "css": "tags",
+      "code": 59459,
+      "src": "fontawesome"
+    },
+    {
       "uid": "7034e4d22866af82bef811f52fb1ba46",
       "css": "code",
       "code": 59442,
@@ -4021,6 +4027,12 @@
       "css": "fields",
       "code": 59435,
       "src": "typicons"
+    },
+    {
+      "uid": "0299bec28699eedda42f46c77239393e",
+      "css": "pencil",
+      "code": 59460,
+      "src": "mfglabs"
     },
     {
       "uid": "77928c849ac2ae6e77d4eae9f2927c00",
