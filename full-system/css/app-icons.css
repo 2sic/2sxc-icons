@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'app-icons';
-  src: url('../font/app-icons.eot?78331213');
-  src: url('../font/app-icons.eot?78331213#iefix') format('embedded-opentype'),
-       url('../font/app-icons.woff?78331213') format('woff'),
-       url('../font/app-icons.ttf?78331213') format('truetype'),
-       url('../font/app-icons.svg?78331213#app-icons') format('svg');
+  src: url('../font/app-icons.eot?20073625');
+  src: url('../font/app-icons.eot?20073625#iefix') format('embedded-opentype'),
+       url('../font/app-icons.woff?20073625') format('woff'),
+       url('../font/app-icons.ttf?20073625') format('truetype'),
+       url('../font/app-icons.svg?20073625#app-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'app-icons';
-    src: url('../font/app-icons.svg?78331213#app-icons') format('svg');
+    src: url('../font/app-icons.svg?20073625#app-icons') format('svg');
   }
 }
 */
@@ -120,3 +120,4 @@
 .icon-reload:before { content: '\e83f'; } /* '' */
 .icon-flash:before { content: '\e840'; } /* '' */
 .icon-ghost:before { content: '\e841'; } /* '' */
+.icon-down-dir:before { content: '\e842'; } /* '' */
