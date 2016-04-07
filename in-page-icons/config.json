@@ -185,6 +185,12 @@
       "css": "trash-empty",
       "code": 59421,
       "src": "fontawesome"
+    },
+    {
+      "uid": "93c35534e6b079466c4676cdedcdb7c1",
+      "css": "cart-arrow-down",
+      "code": 59423,
+      "src": "fontawesome"
     }
   ]
 }
