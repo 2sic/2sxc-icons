@@ -561,6 +561,12 @@
       "src": "fontawesome"
     },
     {
+      "uid": "e82cedfa1d5f15b00c5a81c9bd731ea2",
+      "css": "info-circled",
+      "code": 59475,
+      "src": "fontawesome"
+    },
+    {
       "uid": "38fd7f85755666eda453d5f3c6994066",
       "css": "import",
       "code": 59445,
