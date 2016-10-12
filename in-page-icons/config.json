@@ -191,6 +191,12 @@
       "css": "cart-arrow-down",
       "code": 59423,
       "src": "fontawesome"
+    },
+    {
+      "uid": "49ef53dc31aa9442d77f6ba4f559b528",
+      "css": "bomb",
+      "code": 61922,
+      "src": "fontawesome"
     }
   ]
 }
