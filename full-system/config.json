@@ -611,6 +611,34 @@
       "src": "fontawesome"
     },
     {
+      "uid": "9cbe56287928a00ca88b54f08e3917ae",
+      "css": "content-block",
+      "code": 59837,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M326.7 0A329.2 329.2 0 0 0 0 330.3V1000H685.3C866.3 1000 1000 838.6 1000 657.7V0ZM781.3 585.3C781.3 687.5 717.5 781.3 615.8 781.3H218.8V401.1A180.2 180.2 0 0 1 400.3 218.8H781.3Z",
+        "width": 1000
+      },
+      "search": [
+        "app-icon-weiss-mit-leerraum"
+      ]
+    },
+    {
+      "uid": "7c16240d10b429758d48a6706e7d7422",
+      "css": "app",
+      "code": 59839,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M323.3 0C143.1 0 0 158.4 0 338.6V1000H705C885.2 1000 1000 845.2 1000 665V0ZM588.9 534.2L678.8 768.6 484.4 610.6 289.1 768.6 378.9 534.2 168.4 397.3 418.4 410.5 484.4 168 549.4 410.5 799.4 397.3Z",
+        "width": 1000
+      },
+      "search": [
+        "app-icon-weiss-mit-grossem-stern"
+      ]
+    },
+    {
       "uid": "c8436291bae1891f8433a763a5ed3f20",
       "css": "eye",
       "code": 59392,
@@ -6586,6 +6614,76 @@
       },
       "search": [
         "device-desktop"
+      ]
+    },
+    {
+      "uid": "6ae9be8dadfe3a33ec3c0590e2798b5b",
+      "css": "content-icon-text,bild-weiss",
+      "code": 59833,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "content-icon-text,bild-weiss"
+      ]
+    },
+    {
+      "uid": "c8ba2f35aae53947a82c8801ffc40fff",
+      "css": "app-icon-weiss-mit-grossem-stern",
+      "code": 59834,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M323.3 0C143.1 0 0 158.4 0 338.6V1000H705C885.2 1000 1000 845.2 1000 665V0ZM588.9 534.2L678.8 768.6 484.4 610.6 289.1 768.6 378.9 534.2 168.4 397.3 418.4 410.5 484.4 168 549.4 410.5 799.4 397.3Z",
+        "width": 1000
+      },
+      "search": [
+        "app-icon-weiss-mit-grossem-stern"
+      ]
+    },
+    {
+      "uid": "18a0aba99da7ffc82154768f5e709838",
+      "css": "content-weiss-box",
+      "code": 59835,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M326.6 0C145.3 0 0 150 0 329.7V1000H685.9C865.6 1000 1000 839.1 1000 657.8V0H326.6ZM781.3 585.9C781.3 687.5 717.2 781.3 615.6 781.3H218.8V401.6C218.8 300 298.4 218.8 400 218.8H781.3V585.9Z",
+        "width": 1000
+      },
+      "search": [
+        "content-weiss-box"
+      ]
+    },
+    {
+      "uid": "de172c11f99f37d1d5a8bf18243de4ca",
+      "css": "app-icon-weiss-mit-kleinem-stern",
+      "code": 59836,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M326.7 0C145.8 0 0 157.2 0 338.1V1000H685.3C866.3 1000 1000 846.4 1000 665.5V0ZM601.3 651.7L491.1 562.5 380.9 651.7 431.7 519.4 312.5 442 454.1 449.4 491.1 312.5 527.8 449.4 669.4 442 550.5 519.4Z",
+        "width": 1000
+      },
+      "search": [
+        "app-icon-weiss-mit-kleinem-stern"
+      ]
+    },
+    {
+      "uid": "cb6a318e52395ca83b07dce50e479318",
+      "css": "content-icon-fläche-weiss",
+      "code": 59838,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M333.9 0C153 0 0 183 0 363.8V1000H661.3C842.2 1000 1000 872 1000 691.3V0ZM468.8 750H218.8V437.5H468.8ZM718.8 750H531.3V718.8H718.8ZM781.3 656.3H531.3V625H781.3ZM781.3 562.5H531.3V531.3H781.3ZM781.3 468.8H531.3V437.5H781.3ZM781.3 312.5H218.8V250H781.3Z",
+        "width": 1000
+      },
+      "search": [
+        "content-icon-fläche-weiss"
       ]
     }
   ]

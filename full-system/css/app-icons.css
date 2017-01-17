@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'app-icons';
-  src: url('../font/app-icons.eot?82180242');
-  src: url('../font/app-icons.eot?82180242#iefix') format('embedded-opentype'),
-       url('../font/app-icons.woff2?82180242') format('woff2'),
-       url('../font/app-icons.woff?82180242') format('woff'),
-       url('../font/app-icons.ttf?82180242') format('truetype'),
-       url('../font/app-icons.svg?82180242#app-icons') format('svg');
+  src: url('../font/app-icons.eot?92773275');
+  src: url('../font/app-icons.eot?92773275#iefix') format('embedded-opentype'),
+       url('../font/app-icons.woff2?92773275') format('woff2'),
+       url('../font/app-icons.woff?92773275') format('woff'),
+       url('../font/app-icons.ttf?92773275') format('truetype'),
+       url('../font/app-icons.svg?92773275#app-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'app-icons';
-    src: url('../font/app-icons.svg?82180242#app-icons') format('svg');
+    src: url('../font/app-icons.svg?92773275#app-icons') format('svg');
   }
 }
 */
@@ -145,3 +145,5 @@
 .icon-eav-side-marker:before { content: '\e857'; } /* '' */
 .icon-eav-git-branch:before { content: '\e858'; } /* '' */
 .icon-eav-git-pull-request:before { content: '\e859'; } /* '' */
+.icon-eav-content-block:before { content: '\e9bd'; } /* '' */
+.icon-eav-app:before { content: '\e9bf'; } /* '' */
