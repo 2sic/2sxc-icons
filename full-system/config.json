@@ -639,6 +639,12 @@
       ]
     },
     {
+      "uid": "598a5f2bcf3521d1615de8e1881ccd17",
+      "css": "clock",
+      "code": 59482,
+      "src": "fontawesome"
+    },
+    {
       "uid": "c8436291bae1891f8433a763a5ed3f20",
       "css": "eye",
       "code": 59392,

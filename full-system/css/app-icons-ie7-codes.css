@@ -89,5 +89,6 @@
 .eav-icon-side-marker { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe857;&nbsp;'); }
 .eav-icon-git-branch { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe858;&nbsp;'); }
 .eav-icon-git-pull-request { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe859;&nbsp;'); }
+.eav-icon-clock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe85a;&nbsp;'); }
 .eav-icon-content-block { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bd;&nbsp;'); }
 .eav-icon-app { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bf;&nbsp;'); }
