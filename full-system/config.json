@@ -693,6 +693,18 @@
       "src": "fontawesome"
     },
     {
+      "uid": "347c38a8b96a509270fdcabc951e7571",
+      "css": "database",
+      "code": 61888,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bc4b94dd7a9a1dd2e02f9e4648062596",
+      "css": "fork",
+      "code": 61734,
+      "src": "fontawesome"
+    },
+    {
       "uid": "c8436291bae1891f8433a763a5ed3f20",
       "css": "eye",
       "code": 59392,
