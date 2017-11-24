@@ -705,6 +705,30 @@
       "src": "fontawesome"
     },
     {
+      "uid": "c4c41817bb8c088a8ec6d08784b33da7",
+      "css": "i-cursor",
+      "code": 62022,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "56a21935a5d4d79b2e91ec00f760b369",
+      "css": "sort",
+      "code": 61660,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "94103e1b3f1e8cf514178ec5912b4469",
+      "css": "sort-down",
+      "code": 61661,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "65b3ce930627cabfb6ac81ac60ec5ae4",
+      "css": "sort-up",
+      "code": 61662,
+      "src": "fontawesome"
+    },
+    {
       "uid": "c8436291bae1891f8433a763a5ed3f20",
       "css": "eye",
       "code": 59392,
