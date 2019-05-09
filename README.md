@@ -4,7 +4,7 @@ Icons used in the UI of 2sxc
 
 ## Icon tooling
 
-1. fontello
+We use [fontello](http://www.fontello.com) to build the icon library.
 
 ## My icon sources are
 
